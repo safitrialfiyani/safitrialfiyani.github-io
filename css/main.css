@@ -142,3 +142,15 @@ footer a:not(.nav-link) {
     .val {
       float:right;
     }
+    .rungkad {
+      margin-left: 200px;
+      margin-right: 300px;
+      width: 500px;
+      text-align: center;
+    }
+    .kontak {
+      margin-left: 200px;
+      margin-right: 300px;
+      width: 500px;
+      text-align: center;
+    }
